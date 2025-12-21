@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: btstack_0.8-3.deb
+Version: 0.8.3
+Section: tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/btstack_0.8-3.deb
+Size: 120,252
+MD5sum: 5d956631c5d7c57c165246c9c80d2ed3
+Description: to control bluthut
+Name: btstack
+Author: someone <reposithree@gmail.com>
+Depiction: https://amlanmondal1000-pixel.github.io/Maharepo/depictions/btstack
